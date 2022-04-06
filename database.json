@@ -3,17 +3,30 @@
         {
             "id": 1,
             "name": "Doodles",
-            "breed": "Poodle"
+            "breed": "Poodle",
+            "locationId": 1,
+            "customerId": 1
         },
         {
             "id": 2,
             "name": "Parsley",
-            "breed": "Great Dane"
+            "breed": "Great Dane",
+            "locationId": 2,
+            "customerId": 2
         },
         {
             "id": 3,
             "name": "Esme",
-            "breed": "Pitbull"
+            "breed": "Pitbull",
+            "locationId": 3,
+            "customerId": 3
+        },
+        {
+            "id": 4,
+            "name": "Cloud Dawg",
+            "breed": "Samoyed",
+            "locationId": 4,
+            "customerId": 4
         }
     ],
     "customers": [
@@ -28,7 +41,16 @@
             "address": "1211 Naboo Lane"
         }
     ],
-    "employees": [],
+    "employees": [
+        {
+            "id": 1,
+            "name": "Darth Vader"
+        },
+        {
+            "id": 1,
+            "name": "Count Dooku"
+        }
+    ],
     "locations": [
         {
             "id": 1,
